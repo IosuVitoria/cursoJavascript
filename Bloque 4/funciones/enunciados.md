@@ -16,14 +16,15 @@ Intermedio
 10. Verificar un número primo: Crea una función que tome un número y devuelva true si es primo y false si no lo es.
 
 Avanzado
-Ordenar una lista: Crea una función que tome una lista de números y la ordene de menor a mayor.
-Buscar un elemento en una lista: Crea una función que tome una lista y un elemento, y devuelva true si el elemento está en la lista y false si no lo está.
-Contar palabras en una cadena: Crea una función que tome una cadena y devuelva el número de palabras que contiene.
-Eliminar duplicados en una lista: Crea una función que tome una lista y devuelva una nueva lista sin elementos duplicados.
-Comprobar un palíndromo: Crea una función que tome una cadena y devuelva true si es un palíndromo y false si no lo es.
+11. Ordenar una lista: Crea una función que tome una lista de números y la ordene de menor a mayor.
+12. Buscar un elemento en una lista: Crea una función que tome una lista y un elemento, y devuelva true si el elemento está en la lista y false si no lo está.
+13. Contar palabras en una cadena: Crea una función que tome una cadena y devuelva el número de palabras que contiene.
+14. Eliminar duplicados en una lista: Crea una función que tome una lista y devuelva una nueva lista sin elementos duplicados.
+15. Comprobar un palíndromo: Crea una función que tome una cadena y devuelva true si es un palíndromo y false si no lo es.
+
 Experto
-Algoritmo de búsqueda binaria: Crea una función que implemente la búsqueda binaria en una lista ordenada.
-Calcular la media, mediana y moda de una lista: Crea una función que tome una lista de números y devuelva su media, mediana y moda.
-Convertir números romanos a enteros: Crea una función que tome una cadena de números romanos y la convierta a un número entero.
-Resolver una ecuación cuadrática: Crea una función que tome los coeficientes a, b y c de una ecuación cuadrática y devuelva sus soluciones.
-Validar una dirección de correo electrónico: Crea una función que tome una cadena y verifique si es una dirección de correo electrónico válida según un patrón específico.
+16. Algoritmo de búsqueda binaria: Crea una función que implemente la búsqueda binaria en una lista ordenada.
+17. Calcular la media, mediana y moda de una lista: Crea una función que tome una lista de números y devuelva su media, mediana y moda.
+18. Convertir números romanos a enteros: Crea una función que tome una cadena de números romanos y la convierta a un número entero.
+19. Resolver una ecuación cuadrática: Crea una función que tome los coeficientes a, b y c de una ecuación cuadrática y devuelva sus soluciones.
+20. Validar una dirección de correo electrónico: Crea una función que tome una cadena y verifique si es una dirección de correo electrónico válida según un patrón específico.
