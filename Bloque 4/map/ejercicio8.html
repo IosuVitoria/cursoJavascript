@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Tareas</title>
+</head>
+<body>
+  <ul id="lista-tareas"></ul>
+
+  <script>
+
+    //Objeto del que renderizamos las tareas.
+    let tareas = [
+      { id: 1, descripcion: 'Lavar los platos' },
+      { id: 2, descripcion: 'Hacer la cama' },
+      { id: 3, descripcion: 'Estudiar JavaScript' }
+    ];
+
+    // Selecciona el elemento <ul> donde se agregarán las tareas. MANIPULAMOS EL DOM.
+    let listaTareas = document.getElementById('lista-tareas');
+
+    // Usa map para crear los elementos <li> y agregarlos al <ul>
+    tareas.map(tarea => {
+      let li = document.createElement('li'); // Crea un nuevo elemento <li>. mÁS MANIPULACIÓN DEL DOM.
+      li.textContent = tarea.descripcion; // Establece el contenido del <li>
+      listaTareas.appendChild(li); // Añade el <li> al <ul>
+    });
+
+  </script>
+</body>
+</html>
