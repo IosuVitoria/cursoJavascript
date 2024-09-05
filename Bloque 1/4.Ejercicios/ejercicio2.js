@@ -1,4 +1,4 @@
-// Declara una variable mensaje y prepara una concatenación de TextDecoderStream. 
+// Declara una variable mensaje y prepara una concatenación de TEXTO. 
 
 // Usa variables además para poder hacer el mensaje más personalizado.
 
