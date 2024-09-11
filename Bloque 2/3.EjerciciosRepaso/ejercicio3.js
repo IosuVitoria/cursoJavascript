@@ -7,4 +7,4 @@ const persona={
     ciudad: "Vitoria"
 }
 
-console.log(persona)
+console.log(persona);
